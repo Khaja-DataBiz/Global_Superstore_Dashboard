@@ -50,6 +50,3 @@ The Global Superstore Dashboard provides valuable insights into sales and profit
 | Profitability      | Detailed analysis of profit margins        |
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-username)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-github-username)
-
