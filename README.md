@@ -7,6 +7,19 @@
 ## Introduction
 This project showcases a comprehensive analysis of global superstore sales data using Power BI. The dashboard highlights key performance indicators (KPIs) and insights into sales trends, customer behavior, and profitability across different regions.
 
+# Power BI Dashboard Project 📊
+
+| **Category**      | **Details**                                           |
+|-------------------|-------------------------------------------------------|
+| **Project Name**  | Globalstore--Power BI Dashboard Project                            |
+| **Description**   | An interactive Power BI dashboard designed to visualize key performance metrics and trends. |
+| **Key Features**  | Dynamic visualizations, Drill-through capabilities, Slicers and filters, Data-driven insights. |
+| **Technology Used** | Power BI, DAX, Markdown for documentation.          |
+| **File Format**   | `.pbix`                                               |
+| **Repository Link** | [Power BI Dashboard GitHub Repo](#)                 |
+| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
+
+
 ## Project Overview
 The dataset used for this project includes sales transactions from a global superstore, covering metrics like order quantity, sales, profit, and customer demographics. The Power BI report provides detailed visualizations to help stakeholders understand performance trends and optimize business strategies.
 
