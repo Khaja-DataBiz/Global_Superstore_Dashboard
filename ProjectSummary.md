@@ -56,27 +56,27 @@ The **Global Superstore Dashboard** project leverages the power of **Power BI** 
 
 ## 🖥️ **Dashboard Features & Interactivity**
 
-### 🔍 **1. Dynamic Region Filters & Drill-Through Reports**
+### **1. Dynamic Region Filters & Drill-Through Reports**
    - Use region-specific filters to drill down into the performance of each geographical area.
    - View detailed sales, profit, and customer data for individual regions.
 
-### 📊 **2. AI-Powered Insights**
+### **2. AI-Powered Insights**
    - **Key Influencers Visual**: Automatically identifies factors that have the most impact on sales performance.
    - **Decomposition Tree**: Helps drill down into complex metrics to uncover the underlying reasons for sales fluctuations.
 
-### 📅 **3. Time Period Analysis**
+### **3. Time Period Analysis**
    - Compare sales and profit trends across different time periods using date slicers.
    - Identify seasonal effects and yearly trends in customer behavior.
 
-### 🏷️ **4. Product Category & Segment Analysis**
+### 🏷**4. Product Category & Segment Analysis**
    - Visualize sales and profit performance by product category and segment.
    - Highlight top-performing and underperforming products for better inventory management.
 
-> 🎨 **Visual Tip:** The use of custom visualizations such as **Sunburst Charts** and **Matrix Visuals** helps represent complex hierarchical data effectively, making it easy to identify profitable categories.
+> **Visual Tip:** The use of custom visualizations such as **Sunburst Charts** and **Matrix Visuals** helps represent complex hierarchical data effectively, making it easy to identify profitable categories.
 
 ---
 
-## 🔥 **Outcome & Insights**
+## **Outcome & Insights**
 
 - **Sales Performance Across Regions**: Identified the top-performing regions with the highest sales and profit margins.
 - **Customer Purchasing Behavior**: Uncovered trends in customer preferences and identified the most profitable customer segments.
