@@ -37,3 +37,19 @@ Here are some screenshots from the Power BI dashboard:
 
 ## Conclusion
 The Global Superstore Dashboard provides valuable insights into sales and profitability, enabling businesses to make data-driven decisions to improve performance and customer satisfaction.
+
+![Power BI](https://img.shields.io/badge/PowerBI-Data--Visualization-yellow)
+![GitHub](https://img.shields.io/badge/version-control-blue)
+
+
+| Feature            | Description                                |
+| ------------------ | ------------------------------------------ |
+| Dashboard          | Dynamic visuals for sales and profits      |
+| Sales Insights     | Analysis of sales performance across regions|
+| Customer Behavior  | Visualizations of purchasing patterns      |
+| Profitability      | Detailed analysis of profit margins        |
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-linkedin-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-github-username)
+
